@@ -5,3 +5,6 @@
 3- git reset .   -> revierte el git add
 4- git commit     -> salva todo
 5- got checkout -- .
+6- git log     -> revision de log guardados
+7- git commit --amend    -> arrglar ultimo comando
+8- 
