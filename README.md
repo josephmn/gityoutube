@@ -7,4 +7,4 @@
 5- got checkout -- .
 6- git log     -> revision de log guardados
 7- git commit --amend    -> arrglar ultimo comando
-8- 
+8- git checkout -b rama-heroes
